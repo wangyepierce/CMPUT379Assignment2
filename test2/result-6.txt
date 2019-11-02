@@ -1,0 +1,12 @@
+five-thousand: 807
+library: 856
+see: 795
+you: 782
+five-thousand: 1123
+library: 1200
+see: 1098
+you: 1114
+five-thousand: 1639
+library: 1735
+see: 1610
+you: 1629
